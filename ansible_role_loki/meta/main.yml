@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: ansible_role_loki
   namespace: acme
-  author: Anna Sheludchenko
+  author: Daria
   description: Loki role for Ubuntu
   company: ITMO Univeristy
 
